@@ -1,1 +1,2 @@
-#python
+#FOR CODE KATA
+#Basic set1
