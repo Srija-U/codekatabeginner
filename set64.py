@@ -1,5 +1,5 @@
-number=int(input())
-if(number%2==0):
-    print(number)
+sri=int(input())
+if(sri%2==0):
+    print(sri)
 else:
-    print(number-1)
+    print(sri-1)
