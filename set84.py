@@ -1,3 +1,3 @@
 import math
-n=float(input())
-print(math.ceil(n))
+sp=float(input())
+print(math.ceil(sp))
