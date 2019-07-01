@@ -1,2 +1,2 @@
-n=str(input())
-print(n[::-1])
+sri=str(input())
+print(sri[::-1])
