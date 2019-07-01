@@ -1,2 +1,2 @@
-s=str(input())
-print(s.title())
+sri=str(input())
+print(sri.title())
